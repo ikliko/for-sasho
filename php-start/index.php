@@ -14,6 +14,16 @@ if ($conn->connect_error) {
 echo "Connected successfully";
 ?>
 
-<a href="form.html">register</a>
+<div>
+    <a href="tasks.php">TASKS TO DO</a>
+</div>
+
+<div>
+    <a href="form.html">register</a>
+</div>
+
+<div>
+    <a href="login-form.php">login</a>
+</div>
 
 
